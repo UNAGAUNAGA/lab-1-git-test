@@ -11,6 +11,6 @@ void denis() {
 }
 
 int main() {
-	cout << "Test1";
-	cout << "test2!!!";
+	nikita();
+	denis();
 }
