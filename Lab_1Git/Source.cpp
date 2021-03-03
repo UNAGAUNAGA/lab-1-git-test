@@ -5,6 +5,9 @@ void nikita() {
 
 }
 
+void denis() {
+	cout << "denis's part";
+}
 
 int main() {
 	
