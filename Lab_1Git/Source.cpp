@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
+void nikita() {
+	cout << "chast nikiti";
+
+}
+
 
 int main() {
-	cout << "Test1";
-	cout << "test2!!!";
+	
 }
