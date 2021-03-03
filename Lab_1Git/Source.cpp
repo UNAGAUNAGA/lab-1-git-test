@@ -6,6 +6,11 @@ void nikita() {
 }
 
 
-int main() {
+void denis() {
+	cout << "denis's part";
+}
 
+int main() {
+	cout << "Test1";
+	cout << "test2!!!";
 }
